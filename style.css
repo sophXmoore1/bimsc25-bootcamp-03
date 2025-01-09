@@ -4,7 +4,7 @@
 }
 
 #navBar {
-    background-color: rgb(233, 203, 253);
+    backgroundcolor: rgb(233, 203, 253);
     height: var(--navBarHeight);
     padding: 20px
 }
