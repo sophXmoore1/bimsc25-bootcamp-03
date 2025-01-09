@@ -16,8 +16,8 @@
 }
 
 #main {
-    background-color: rgb(145, 208, 219);
-    width: calc(100vw - var(--sideBarHeight));
+    background-color: rgb(145, 208, 219)
+    width: calc(100vw - var(--sideBarHeight))
     padding: 10px
 }
 
